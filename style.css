@@ -1,0 +1,35 @@
+body{
+    background-color:lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    position:absolute;
+    margin:auto;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    height:77vmin;
+    width:165vmin;
+}
+
+.box{
+    float:left;
+    height:10.6vmin;
+    width:10.6vmin;
+    border:0.2vmin solid dodgerblue;
+    color:white;
+    text-align:center;
+    line-height:10.6vmin;
+    font-size:3vmin;
+    transition: background 0.5s linear;
+}
+
+.blueBox{
+    background-color:rgb(0, 0, 128);
+}
+
+.blackBox{
+    background-color:black;
+}
