@@ -4,9 +4,9 @@ let startBoxNo = null
 let endBoxNo = null
 
 allBoxes.forEach((box,boxNo)=>{
-    if(box.innerHTML=='S'){startBoxNo = boxNo}
-    else if(box.innerHTML=='E'){endBoxNo = boxNo}
-    box.innerHTML += boxNo
+    if(box.innerHTML=='I'){startBoxNo = boxNo}
+    else if(box.innerHTML=='G'){endBoxNo = boxNo}
+    //box.innerHTML += boxNo
 })
 
 let startState = Result('no state needed',startBoxNo)

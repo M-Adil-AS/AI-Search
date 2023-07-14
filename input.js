@@ -14,7 +14,7 @@ let html = maze==1 ?
 <div class='box blackBox'></div>
 <div class='box blueBox'></div>
 <div class='box blueBox'></div>
-<div class='box blackBox'>E</div>
+<div class='box blackBox'>G</div>
 <div class='box blueBox'></div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
@@ -90,7 +90,7 @@ let html = maze==1 ?
 <div class='box blueBox'></div>
 <div class='box blueBox'></div>
 <div class='box blackBox'></div>
-<div class='box blackBox'>S</div>
+<div class='box blackBox'>I</div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
 <div class='box blueBox'></div>
@@ -120,7 +120,7 @@ maze==2 ? `
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
 <div class='box blueBox'></div>
-<div class='box blackBox'>E</div>
+<div class='box blackBox'>G</div>
 
 <div class='box blackBox'></div>
 <div class='box blueBox'></div>
@@ -202,7 +202,7 @@ maze==2 ? `
 <div class='box blueBox'></div>
 <div class='box blueBox'></div>
 
-<div class='box blackBox'>S</div>
+<div class='box blackBox'>I</div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
@@ -232,7 +232,7 @@ maze==2 ? `
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
-<div class='box blackBox'>E</div>
+<div class='box blackBox'>G</div>
 
 <div class='box blueBox'></div>
 <div class='box blueBox'></div>
@@ -314,7 +314,7 @@ maze==2 ? `
 <div class='box blueBox'></div>
 <div class='box blackBox'></div>
 
-<div class='box blackBox'>S</div>
+<div class='box blackBox'>I</div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
 <div class='box blackBox'></div>
